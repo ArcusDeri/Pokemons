@@ -1,4 +1,4 @@
-export class Recipe{
+export class Pokemon{
     public description: string;
     public imagePath: string;
 
